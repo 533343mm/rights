@@ -51,6 +51,9 @@ html,body {
 .container-text-1 .social-media a ion-icon {
     color: #5c5c5c;
 }
+.container-text-1 .social-media a ion-icon:hover {
+    color: rgb(4, 4, 46);
+}
 
 .container-text-1 .put-down {
     width: 100%;
